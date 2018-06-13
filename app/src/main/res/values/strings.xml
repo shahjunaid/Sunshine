@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Sun Shine</string>
+    <string name="action_settings">Settings</string>
+    <string name="aboutme">
+        <b>Hello</b> <br></br>
+        <b>I am a web and Android Developer based in kashmir</b>
+      ."\n"
+       I Made this small app in a day "\n"
+        If you like this app and want me to build your projects
+        <b>Get In Touch With Me</b>"\n"
+        <br></br>
+        <b>Instagram:
+            "\n"
+            __junaidshah</b>"\n"
+        <b>E-Mail:
+            "\n"
+            junaidshah349@gmail.com</b>
+    </string>
+</resources>
